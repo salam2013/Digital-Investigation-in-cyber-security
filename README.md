@@ -25,7 +25,6 @@ This exercise provided **hands-on exposure** to real-world digital forensics, in
 ## Workflow Conducted
 
 
-<img width="941" height="705" alt="Screenshot 2025-08-10 210721" src="https://github.com/user-attachments/assets/362916f7-6602-472c-b14f-d111f73fff78" />
 
 
 
